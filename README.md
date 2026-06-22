@@ -25,13 +25,13 @@
 
 I am a **Full-Stack & Blockchain Developer** bridging the physical and digital worlds. I design decentralised ledger protocols, deploy IoT systems, and architect high-performance web dashboards.
 
-- 🤖 **Currently Building**: A **Decentralised Drug Supply Chain Tracking System** integrating **Next.js**, **Hyperledger Fabric (Go)**, and **ESP8266 IoT Scanners**.
-- 🛠️ **Core Philosophy**: Building clean, premium user experiences backed by immutable cryptographically secure ledger states.
-- 🚀 **Passionate About**: Web3 development, IoT hardware integration, and database orchestration.
+-  **Currently Building**: A **Decentralised Drug Supply Chain Tracking System** integrating **Next.js**, **Hyperledger Fabric (Go)**, and **ESP8266 IoT Scanners**.
+-  **Core Philosophy**: Building clean, premium user experiences backed by immutable cryptographically secure ledger states.
+-  **Passionate About**: Web3 development, IoT hardware integration, and database orchestration.
 
 ---
 
-### 💻 Technologies & Tools (Animated Stack)
+###  Technologies & Tools (Animated Stack)
 
 <p align="left">
   <!-- Frontend -->
@@ -70,7 +70,7 @@ I am a **Full-Stack & Blockchain Developer** bridging the physical and digital w
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+###  Real-Time GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagarprakash-s&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sagar's GitHub Stats" width="48%" />
@@ -83,7 +83,7 @@ I am a **Full-Stack & Blockchain Developer** bridging the physical and digital w
 
 ---
 
-### 🎮 Contribution Snake Game
+###  Contribution Snake Game
 <!-- This snake eats your green contribution boxes! Setup details in Step 2 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sagarprakash-s/sagarprakash-s/output/github-contribution-grid-snake.svg" alt="Contribution Snake Game" width="100%"/>
